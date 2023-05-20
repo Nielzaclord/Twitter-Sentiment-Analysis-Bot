@@ -1,0 +1,4 @@
+tweepy==3.10.0
+textblob==0.15.3
+matplotlib==3.4.2
+pandas==1.2.4
